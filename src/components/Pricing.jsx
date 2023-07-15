@@ -112,7 +112,7 @@ export function Pricing() {
             name="Starter"
             price="$25"
             description="基础的，适用于新起点"
-            href="/"
+            href="https://ourcard.lemonsqueezy.com/checkout/buy/9db4e324-7969-4aa7-8670-ff298e6b9b56"
             features={[
               '5套模板',
               '1v1售后',
@@ -125,7 +125,7 @@ export function Pricing() {
             name="云服务器续费"
             price="$5"
             description="最低价格."
-            href="/"
+            href="https://ourcard.lemonsqueezy.com/checkout/buy/9db4e324-7969-4aa7-8670-ff298e6b9b56"
             features={[
               '2-2-1Gbps-50GB SSD-US',
 

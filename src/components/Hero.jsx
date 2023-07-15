@@ -28,7 +28,7 @@ export function Hero() {
         构建你的网站
       </h1>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/buy">购买资料包</Button>
+        <Button href="https://ourcard.lemonsqueezy.com/checkout/buy/9db4e324-7969-4aa7-8670-ff298e6b9b56">购买资料包</Button>
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
